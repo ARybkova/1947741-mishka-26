@@ -1,3 +1,5 @@
+https://arybkova.github.io/1947741-mishka-26/
+
 # Личный проект «Мишка» 
 
 * Студент: [Алена Рыбкова](https://up.htmlacademy.ru/adaptive/26/user/1947741).
